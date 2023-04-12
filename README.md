@@ -15,6 +15,7 @@ Buatlah program Java yang terkoneksi dengan database MySQL. Berikut spesifikasi 
 7. List data ditampilkan menggunaan card (JPanel)
 
 ## DIAGRAM UML
+![uml drawio](https://user-images.githubusercontent.com/101117829/231516407-f4cd820e-28d5-4cfb-9a77-7eb657a73755.png)
 
 ## ALUR PROGRAM
 1. User melakukan login terlebih dahulu, dan harus sesuai memasukkan username dan passwordnya. (Username = admin; Password = parasosial123)
