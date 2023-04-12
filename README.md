@@ -52,8 +52,8 @@ Buatlah program Java yang terkoneksi dengan database MySQL. Berikut spesifikasi 
 ![delete agensi(3)](https://user-images.githubusercontent.com/101117829/231492534-7f476b0f-313a-4929-9e13-13dafb01e202.PNG)
 
 ### UPDATE IDOL
-![update idol](https://user-images.githubusercontent.com/101117829/231492661-
-486dbc40-dd41-4ac5-b2c0-71b2018e25c7.PNG)
+![update idol](https://user-images.githubusercontent.com/101117829/231493118-e8deac35-a517-46e3-a291-e8af1306fe8c.PNG)
 
 ### UPDATE AGENSI
-![update agensi](https://user-images.githubusercontent.com/101117829/231492729-037e7526-41e4-4b33-b573-088eb017c81d.PNG)
+![update agensi](https://user-images.githubusercontent.com/101117829/231493215-bed32103-19d5-46b1-adce-ca82be232a74.PNG)
+
